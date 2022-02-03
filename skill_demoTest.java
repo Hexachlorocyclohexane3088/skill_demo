@@ -3,6 +3,6 @@ import org.junit.*;
 public class skill_demoTest {
 	@Test
 	public void testLess() {
-		assertTrue(skill_demo.less(2, 1));
+		assertTrue(skill_demo.less(1, 2));
 	}
 }
